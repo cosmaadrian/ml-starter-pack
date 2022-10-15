@@ -5,6 +5,12 @@ Education should be free and available for anyone interested.
 
 Contributions are welcome, just drop a PR! 
 
+This list is inspired by many other more comprehensive (but daunting) lists on github. This list should not be considered a "complete" list of resources, but rather a curated curriculum for going from noob to an above average deep learning researcher. Check out other works:
+
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
 Contents
 ---------------
 

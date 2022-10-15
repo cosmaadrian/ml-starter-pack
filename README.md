@@ -1,10 +1,14 @@
 # Machine Learning Started Pack
-A comprehensive repository of resources for getting started in machine learning research. Contributions welcome, just drop a PR! 
+A comprehensive repository of resources for getting started in machine learning research. Links and resources are provided for educational purposes only (literally).
+
+Education should be free and available for anyone interested. 
+
+Contributions are welcome, just drop a PR! 
 
 Contents
 ---------------
 
-1. [Searching, Reading and Understanding Research Papers](#searching-reading-and-understanding-research-papers)
+1. [Searching, Reading and Understanding Research](#searching-reading-and-understanding-research)
 2. [ML / DL Courses](Courses)
 3. [Newsletters, podcasts, blogs](#newsletters-podcasts-blogs)
 4. [Tools of the Trade](#tools-of-the-trade)
@@ -16,7 +20,12 @@ Contents
     3. [Making a good presentation and poster](#making-a-good-presentation-and-poster)
 8. [Domain-specific papers](#domain-specific-papers)
 
-## Searching, Reading and Understanding Research Papers
+## Searching, Reading and Understanding Research
+Find free books through Library Genesis, the largest underground library system: https://libgen.is/ 
+
+Find paywalled articles through SciHub: https://sci.hubg.org/
+
+- [Google Scholar Chrome Extension](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en) 
 
 - [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures)](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3) - A systematic approach to reading a collection of papers to gain knowledge within a domain and how to properly read a research paper
 
@@ -26,9 +35,18 @@ Contents
 
 ## Tools of the Trade
 
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+- [Matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+- [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
 ## Books 
 
 ## Writing your paper
+
+- [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+- [LEADERSHIP LAB: Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM)
+- [The Sense of Style | Steven Pinker | Talks at Google](https://www.youtube.com/watch?v=3ZKTmsgqi0U)
 
 ## Dissemination
 

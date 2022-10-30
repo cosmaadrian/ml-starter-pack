@@ -14,6 +14,7 @@ This list is inspired by many other more comprehensive (but daunting) lists on g
 Contents
 ---------------
 
+0. [Misc](#misc)
 1. [Searching, Reading and Understanding Research](#searching-reading-and-understanding-research)
 2. [ML / DL Courses](Courses)
 3. [Newsletters, podcasts, blogs](#newsletters-podcasts-blogs)
@@ -25,6 +26,10 @@ Contents
     2. [Journals (CV, NLP)](#journals)
     3. [Making a good presentation and poster](#making-a-good-presentation-and-poster)
 8. [Domain-specific papers](#domain-specific-papers)
+
+## Misc
+
+[Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 ## Searching, Reading and Understanding Research
 Find free books through Library Genesis, the largest underground library system: https://libgen.is/ 

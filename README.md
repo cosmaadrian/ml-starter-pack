@@ -55,6 +55,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 ## Writing your paper
 
+[How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+
 - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [LEADERSHIP LAB: Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM)
 - [The Sense of Style | Steven Pinker | Talks at Google](https://www.youtube.com/watch?v=3ZKTmsgqi0U)

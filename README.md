@@ -64,6 +64,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 - [LEADERSHIP LAB: Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM)
 - [The Sense of Style | Steven Pinker | Talks at Google](https://www.youtube.com/watch?v=3ZKTmsgqi0U)
 
+- [How we write rebuttals](https://deviparikh.substack.com/p/how-we-write-rebuttals-dc84742fece1)
+
 ## Dissemination
 
 ### Conferences

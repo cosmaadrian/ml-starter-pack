@@ -58,6 +58,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
+[Writing a good scientific paper](https://perceiving-systems.blog/post/writing-a-good-scientific-paper)
+
 [How to do good research, get it published and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
 
 - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)

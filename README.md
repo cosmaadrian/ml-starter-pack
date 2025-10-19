@@ -40,6 +40,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 - [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures)](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3) - A systematic approach to reading a collection of papers to gain knowledge within a domain and how to properly read a research paper
 
+- [how to read research papers, in 5 minutes.](https://masonjwang.com/writing/reading-research)
+
 ## Courses
 
 ## Newsletters, podcasts, blogs

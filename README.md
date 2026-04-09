@@ -30,6 +30,7 @@ Contents
 ## Misc
 
 [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+[Richard Hamming - You and Your Research](https://www.paulgraham.com/hamming.html)
 
 ## Searching, Reading and Understanding Research
 Find free books through Library Genesis, the largest underground library system: https://libgen.is/ 

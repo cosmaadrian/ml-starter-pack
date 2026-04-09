@@ -62,6 +62,7 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 ## Writing your paper
 
+[Jordan Peterson - How to Use Reading and Writing to Find Your Path](https://www.youtube.com/watch?v=rvfn1wMAFgU)
 
 [How to write a good CVPR submission](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
 

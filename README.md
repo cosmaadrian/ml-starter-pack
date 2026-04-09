@@ -25,7 +25,7 @@ Contents
     1. [Conferences (CV, NLP)](#conferences)
     2. [Journals (CV, NLP)](#journals)
     3. [Making a good presentation and poster](#making-a-good-presentation-and-poster)
-7. [Paper Reviewing](#reviews)
+7. [Paper Reviewing](#paper-reviewing)
 9. [Domain-specific papers](#domain-specific-papers)
 
 ## Misc

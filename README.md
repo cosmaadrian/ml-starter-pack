@@ -25,7 +25,8 @@ Contents
     1. [Conferences (CV, NLP)](#conferences)
     2. [Journals (CV, NLP)](#journals)
     3. [Making a good presentation and poster](#making-a-good-presentation-and-poster)
-8. [Domain-specific papers](#domain-specific-papers)
+7. [Paper Reviewing](#reviews)
+9. [Domain-specific papers](#domain-specific-papers)
 
 ## Misc
 
@@ -86,5 +87,9 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 - [Butter Poster: Visual and UX design principles can improve the effectiveness of poster sessions](https://derekcrowe.net/butterposter)
 - [How to create a better research poster in less time (#betterposter Generation 2)](https://www.youtube.com/watch?v=SYk29tnxASs)
 - [How to create a quick Twitter Poster to share new research (includes templates)](https://www.youtube.com/watch?v=fQDL8r3r_d4)
+
+## Paper Reviewing
+
+- [HOW TO BE A GOOD REVIEWER? REVIEWER TUTORIAL FOR ECCV 2026](https://docs.google.com/presentation/d/1Fc7d291AA8cw2pRVgcEh8hFEoTfMPBZUbblwyUuD5-E/edit?usp=sharing)
 
 ## Domain-specific papers

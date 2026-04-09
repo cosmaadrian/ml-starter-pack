@@ -33,6 +33,8 @@ Contents
 
 - [Richard Hamming - You and Your Research](https://www.paulgraham.com/hamming.html)
 
+- [Nicholas Carlini - How to win a best paper award](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html)
+
 ## Searching, Reading and Understanding Research
 Find free books through Library Genesis, the largest underground library system: https://libgen.is/ 
 

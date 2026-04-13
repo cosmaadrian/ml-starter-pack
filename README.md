@@ -76,6 +76,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 - [How we write rebuttals](https://deviparikh.substack.com/p/how-we-write-rebuttals-dc84742fece1)
 
+[Templates for Machine Learning Research Papers](https://neelguha.github.io/blog/2026/templates/)
+
 ## Dissemination
 
 ### Conferences

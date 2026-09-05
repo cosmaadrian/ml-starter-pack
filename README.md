@@ -51,6 +51,8 @@ Find paywalled articles through SciHub: https://sci.hubg.org/
 
 ## Newsletters, podcasts, blogs
 
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, with ranked coverage of models, companies, funding, policy, and research.
+
 ## Tools of the Trade
 
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
